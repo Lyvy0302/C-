@@ -1,0 +1,10 @@
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\bin\Debug\Tuan5_QuanLyPhongMay.exe.config
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\bin\Debug\Tuan5_QuanLyPhongMay.exe
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\bin\Debug\Tuan5_QuanLyPhongMay.pdb
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csprojAssemblyReference.cache
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.frmQuanLyPhongMay.resources
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.Properties.Resources.resources
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csproj.GenerateResource.cache
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csproj.CoreCompileInputs.cache
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.exe
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.pdb

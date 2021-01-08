@@ -1,0 +1,9 @@
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\obj\Debug\Tuan1_BaiDoiTien.csproj.GenerateResource.cache
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\obj\Debug\Tuan1_BaiDoiTien.csproj.CoreCompileInputs.cache
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\TranThiCamLy_17087161_LapTrinhC#\BaiTapDotNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

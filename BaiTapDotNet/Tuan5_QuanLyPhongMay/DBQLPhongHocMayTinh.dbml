@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyPhongMay" Class="DBQLPhongHocMayTinhDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-RFV2GND;Initial Catalog=QuanLyPhongMay;Integrated Security=True" SettingsObjectName="Tuan5_QuanLyPhongMay.Properties.Settings" SettingsPropertyName="QuanLyPhongMayConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.lblMay" Member="lblMays">
+    <Type Name="lblMay">
+      <Column Name="id" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="id_Phong" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="cpu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="hdd" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ram" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vga" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="monitor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="lblPhong_lblMay" Member="lblPhong" ThisKey="id_Phong" OtherKey="id_Phong" Type="lblPhong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.lblPhong" Member="lblPhongs">
+    <Type Name="lblPhong">
+      <Column Name="id_Phong" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenPhong" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="toaNha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tangLau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="lblPhong_lblMay" Member="lblMays" ThisKey="id_Phong" OtherKey="id_Phong" Type="lblMay" />
+    </Type>
+  </Table>
+</Database>
